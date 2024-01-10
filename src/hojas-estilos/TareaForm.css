@@ -1,0 +1,23 @@
+.form-tarea{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0%;
+    margin-bottom: 3%;
+}
+
+.input-tarea{
+    width: 65%;
+    font-size: 100%;
+    background-color: antiquewhite;
+    border: none;
+
+}
+
+.boton-tarea{
+    width: 25%;
+    font-size: 100%;
+    background-color: blue;
+    border: none;
+}
